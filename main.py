@@ -1,6 +1,6 @@
 """Read an image from a path and return the top n colors as a palette.
 Usage:
-    python main.py && open palette.html
+    python main.py -h
 """
 from PIL import Image
 import numpy as np
