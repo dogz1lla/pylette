@@ -6,3 +6,16 @@ Here is an example of getting the palette of one of the many beautiful shots fro
 True](https://www.youtube.com/watch?v=woSc2_xE7KI):
 
 ![come_true](./come_true_palette.png)
+
+And another one -- this time a shot i like from Star Wars Episode 2:
+
+![palps](./sw2_palette.png)
+
+# Requirements
+This script requires `pillow`, `scikit-learn` and `numpy`.
+
+# Usage
+See the script usage description by running
+```
+python main.py -h
+```
