@@ -19,3 +19,6 @@ See the script usage description by running
 ```
 python main.py -h
 ```
+
+# Disclaimer
+Only been tested on `.png` images.
